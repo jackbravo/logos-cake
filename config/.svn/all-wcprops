@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/source/axaisistemaslogoscommx/!svn/ver/132/axai/config
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/axaisistemaslogoscommx/!svn/ver/2/axai/config/acl.ini.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/source/axaisistemaslogoscommx/!svn/ver/2/axai/config/bootstrap.php
+END
+inflections.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/axaisistemaslogoscommx/!svn/ver/2/axai/config/inflections.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/axaisistemaslogoscommx/!svn/ver/108/axai/config/routes.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/source/axaisistemaslogoscommx/!svn/ver/91/axai/config/database.php
+END
+database.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/axaisistemaslogoscommx/!svn/ver/2/axai/config/database.php.default
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/axaisistemaslogoscommx/!svn/ver/107/axai/config/core.php
+END

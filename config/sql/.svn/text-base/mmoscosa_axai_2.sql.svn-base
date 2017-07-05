@@ -1,0 +1,10 @@
+ALTER TABLE entries ADD COLUMN active INT(1) DEFAULT 1;
+UPDATE entries SET active=0 WHERE receipt_id IS NOT NULL AND dispatch_id IS NOT NULL;
+ALTER TABLE entries ADD INDEX part_active_idx (part_id, active);
+ALTER TABLE entries ADD INDEX part_id_active_idx (part_id, id, active);
+ALTER TABLE entries ADD INDEX active_idx (active);
+ALTER TABLE identifiers ADD INDEX part_idx (part_id);
+ALTER TABLE identifiers ADD INDEX entry_idx (entry_id);
+DELETE FROM entries WHERE part_id = 0;
+DELETE entries FROM entries LEFT JOIN parts ON parts.id = entries.part_id WHERE parts.id IS NULL;
+DELETE entries, dispatches FROM entries LEFT JOIN parts ON parts.id = entries.part_id LEFT JOIN dispatches ON dispatches.id = entries.dispatch_id WHERE receipt_id IS NULL AND family_id IN (2,3);

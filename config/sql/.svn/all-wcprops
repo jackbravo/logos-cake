@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/axaisistemaslogoscommx/!svn/ver/132/axai/config/sql
+END
+mmoscosa_axai.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/axaisistemaslogoscommx/!svn/ver/34/axai/config/sql/mmoscosa_axai.sql
+END
+db_acl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/axaisistemaslogoscommx/!svn/ver/2/axai/config/sql/db_acl.sql
+END
+mmoscosa_axai_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/axaisistemaslogoscommx/!svn/ver/125/axai/config/sql/mmoscosa_axai_2.sql
+END
+mmoscosa_axai_3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/axaisistemaslogoscommx/!svn/ver/132/axai/config/sql/mmoscosa_axai_3.sql
+END
+sessions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/axaisistemaslogoscommx/!svn/ver/2/axai/config/sql/sessions.sql
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/axaisistemaslogoscommx/!svn/ver/2/axai/config/sql/i18n.php
+END
+db_acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/axaisistemaslogoscommx/!svn/ver/2/axai/config/sql/db_acl.php
+END
+sessions.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/axaisistemaslogoscommx/!svn/ver/2/axai/config/sql/sessions.php
+END
+i18n.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/axaisistemaslogoscommx/!svn/ver/2/axai/config/sql/i18n.sql
+END
